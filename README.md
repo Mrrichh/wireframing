@@ -68,4 +68,22 @@ High-fidelity wireframes are more detailed and closely resemble the final produc
 ## Identifying the Wireframe Type in This Repository
 The wireframes included here are **low-fidelity wireframes**.  
 They emphasize layout, navigation, and content placement without focusing on detailed design elements like colors, fonts, or interactivity. This makes them ideal for early-stage planning and feedback gathering.
+## Popular Wireframing Tools
+
+There are several tools available that help designers create effective wireframes. Each tool has unique features suited for different stages of the design process.
+
+- **Balsamiq**: Known for its hand-drawn style, Balsamiq is great for quickly creating low-fidelity wireframes to brainstorm ideas.
+- **Adobe XD**: Offers powerful design and prototyping capabilities, making it a strong option for high-fidelity wireframes.
+- **Sketch**: Popular among Mac users, Sketch is widely used for UI and UX design, offering robust plugins and community support.
+- **Figma**: A cloud-based design tool that has become the industry standard for wireframing and prototyping.
+
+### Why Figma?
+Figma stands out as a recommended tool for wireframing because of its accessibility and collaboration features:
+- **Cloud-Based**: Works directly in the browser with no installation required, though desktop apps are available.
+- **Real-Time Collaboration**: Multiple team members can view and edit a wireframe at the same time, similar to Google Docs.
+- **Cross-Platform**: Available on Windows, macOS, Linux, and even mobile devices for reviewing designs.
+- **Versatility**: Supports both low-fidelity wireframes (with simple shapes and layouts) and high-fidelity designs (with detailed UI components).
+- **Free Plan**: Provides robust features at no cost, making it accessible for students, startups, and professionals alike.
+
+Because of these features, **Figma is highly recommended for creating, sharing, and iterating on wireframes efficiently.**
 
