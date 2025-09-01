@@ -51,3 +51,21 @@ Represents interactive elements and their intended behaviors, such as buttons, f
 ---
 
 Together, these elements ensure the wireframe effectively communicates how the product will look and function before moving into detailed design and development.
+## Types of Wireframes
+
+### Low-Fidelity Wireframes
+Low-fidelity wireframes are simple sketches or outlines that show the basic structure and layout of a design. They usually avoid details such as colors, images, or typography, focusing instead on the placement of elements and overall flow.  
+- **When to Use**: Early in the design process for brainstorming, gathering feedback, and exploring different layout ideas quickly.  
+- **Characteristics**: Hand-drawn sketches, black-and-white outlines, placeholders (like boxes for images and lines for text).  
+
+### High-Fidelity Wireframes
+High-fidelity wireframes are more detailed and closely resemble the final product. They may include specific fonts, colors, button styles, and even interactive elements in some cases.  
+- **When to Use**: Later in the design process when refining user interface details, testing usability, and preparing for prototyping or development.  
+- **Characteristics**: Pixel-perfect alignment, real text, realistic images, and detailed components.  
+
+---
+
+## Identifying the Wireframe Type in This Repository
+The wireframes included here are **low-fidelity wireframes**.  
+They emphasize layout, navigation, and content placement without focusing on detailed design elements like colors, fonts, or interactivity. This makes them ideal for early-stage planning and feedback gathering.
+
